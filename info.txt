@@ -1,0 +1,34 @@
+token: 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
+
+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
+--
+
+1. Generar apps por sección: organizar el software
+- Home
+- Maths
+- Graphs
+- Problems
+- ICL
+- 
+
+
+2. Operaciones matemáticas: 
+	Orden aleatorio
+	Capturar tiempo en responder
+	Cantidad errores
+
+3. Cambios de gráficas:
+	Línea punteada
+	Carga un punto por cada click en el botón siguiente
+	Gráficas de igual tamaño (consistencia)
+	Colors: blue & green
+
+5 secciones o actividades para pagar
+
+
+<!--<p> En la actividad de <b>Fija o Variable 2</b> usted ganó <toMoney>{{ data.pago_total }}</toMoney>. </p>
+-->
+
+<!--<p> En la actividad de <b>Fija o Variable 1</b> usted ganó <toMoney>{{ data.pago_total }}</toMoney>. </p>
+-->
+
